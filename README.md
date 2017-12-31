@@ -1,6 +1,8 @@
 # Why you Dumbasses Should Stop Taking Manaflow Band on Yasuo
 An entry into the 2017 Riot Games API Challenge.
 
+[If you haven't done so already, click here to view the slideshow](https://github.com/Derpthemeus/2017-riot-api-challenge-shitpost/blob/master/API%20Challenge%202017%20Shitpost.pdf)
+
 ## FAQ
 
 ### r u srs?
